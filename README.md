@@ -1,0 +1,1 @@
+rest方式采用的是restClient，基于http协议，BulkProcessor使用的是TransportClient，基于Tcp协议。

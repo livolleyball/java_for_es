@@ -20,7 +20,7 @@ public class EsConfig {
 
         Settings settings = Settings.builder()
                 //指定集群名称
-                .put("cluster.name", "dev-es")
+                .put("cluster.name", "es-dev")
                 //探测集群中机器状态
 //                .put("client.transport.sniff", true)
                 .build();
@@ -30,18 +30,6 @@ public class EsConfig {
 
         return client;
 
-//
-//        TransportClient transportClient = null;
-//        try {
-//            Settings settings = Settings.builder().put("cluster.name", "es-dev").build();
-//            //开发环境
-//            transportClient = new PreBuiltTransportClient(settings)
-//                    .addTransportAddress(new InetSocketTransportAddress(InetAddress.getByName("192.168.198.89"), 9305));
-//        } catch (UnknownHostException e) {
-//            e.printStackTrace();
-//        }
-//
-//
     }
 
 }

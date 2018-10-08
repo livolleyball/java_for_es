@@ -49,11 +49,7 @@ public class SearchTest {
 
     @Test
     public void testSearch1() {
-        SearchResponse response = client.prepareSearch(index)    // 在prepareSearch()的参数为索引库列表，意为要从哪些索引库中进行查询
-//                .setSearchType(SearchType.DEFAULT)  // 设置查询类型，有QUERY_AND_FETCH  QUERY_THEN_FETCH  DFS_QUERY_AND_FETCH  DFS_QUERY_THEN_FETCH
-//                 .setQuery(QueryBuilders.prefixQuery("content", "烂摊子"))// 设置相应的query，用于检索，termQuery的参数说明：name是doc中的具体的field，value就是要找的具体的值
-//                .setQuery(QueryBuilders.regexpQuery("content", ".*烂摊子.*"))
-//                .setQuery(QueryBuilders.prefixQuery("content", "中国"))
+        SearchResponse response = client.prepareSearch(index)
                 .get();
         showResult(response);
     }

@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb3b6abc-fca9-4e48-b890-0ee7b9873092" name="Default Changelist" comment="" />
+    <list default="true" id="eb3b6abc-fca9-4e48-b890-0ee7b9873092" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java_es/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java_es/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java_es/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java_es/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java_es/EsConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java_es/EsConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/java_es-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/java_es-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.DeleteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.DeleteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.IndexTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.IndexTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.SearchTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.java_es.SearchTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.java_es.DeleteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.java_es.DeleteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.java_es.IndexTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.java_es.IndexTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.java_es.SearchTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.java_es.SearchTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/java_es/DeleteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/java_es/DeleteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/java_es/IndexTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/java_es/IndexTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/java_es/IndexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/java_es/IndexTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/java_es/SearchTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/java_es/SearchTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,42 +37,49 @@
     <session id="390231302">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="6" />
-          <entry key="java" value="1755" />
-          <entry key="xml" value="46" />
+          <entry key="java" value="1808" />
+          <entry key="xml" value="111" />
+          <entry key="yml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1755" />
+          <entry key="JAVA" value="1808" />
           <entry key="PLAIN_TEXT" value="6" />
-          <entry key="XML" value="46" />
+          <entry key="XML" value="111" />
+          <entry key="YAML" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
+          <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="26" />
           <entry key="md" value="1" />
+          <entry key="pom" value="3" />
           <entry key="xml" value="2" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="12" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="26" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="5" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -62,8 +92,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+            <state relative-caret-position="357">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
             </state>
           </provider>
         </entry>
@@ -71,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-498">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="255">
+              <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -80,12 +110,54 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="29" column="86" lean-forward="true" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
+            <state relative-caret-position="-138">
+              <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+              <folding>
+                <marker date="1539002786069" expanded="true" signature="717:768" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1307#1308#0" expanded="true" />
-                <element signature="e#1375#1376#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="25" selection-end-line="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3080#3081#0" expanded="true" />
+                <element signature="e#3110#3111#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,22 +166,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/util/EsUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
+            <state relative-caret-position="1200">
+              <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="72" column="36" lean-forward="true" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1707#1708#0" expanded="true" />
-                <element signature="e#1737#1738#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="73">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -117,55 +184,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/IndexTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="871">
-              <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="63" />
+            <state relative-caret-position="510">
+              <caret line="34" column="11" selection-end-line="125" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1499#1515#0" expanded="true" />
-                <element signature="e#1572#1573#0" expanded="true" />
-                <element signature="e#1602#1603#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="60" selection-start-column="60" selection-end-column="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../java_repository/org/elasticsearch/elasticsearch/5.4.0/elasticsearch-5.4.0.jar!/org/elasticsearch/common/xcontent/XContentFactory.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="33" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#4236#4237#0" expanded="true" />
+                <element signature="e#4266#4267#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -189,21 +213,28 @@
       <find>java_es</find>
       <find>boot</find>
       <find>BulkByScrollResponse</find>
+      <find>5.4</find>
+      <find>web</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/java_es/util/EsUtil.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/java_es/GetTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/java_es/Application.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/java_es/IndexTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/java_es/Application.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -211,8 +242,13 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$PROJECT_DIR$/../java_repository" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../java_setting/settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -227,13 +263,19 @@
           <item name="java_es" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java_es" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="28" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
+    <option name="width" value="1412" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -241,20 +283,27 @@
       <profile-state>
         <expanded-state>
           <State />
+          <State>
+            <id>Maven</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Ant</id>
+            <id>MavenModelInspection</id>
           </State>
         </selected-state>
       </profile-state>
     </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -263,58 +312,10 @@
               <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
               <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java_es" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java_for_es" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java_for_es" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="java_es" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearchTest.testSearch1">
+  <component name="RunManager" selected="Application.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java_es.Application" />
       <module name="java_for_es" />
@@ -346,22 +347,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IndexTest.CreateIndexBulk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java_for_es" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java_es.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.java_es" />
-      <option name="MAIN_CLASS_NAME" value="com.java_es.IndexTest" />
-      <option name="METHOD_NAME" value="CreateIndexBulk" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -378,6 +363,20 @@
       <option name="MAIN_CLASS_NAME" value="com.java_es.IndexTest" />
       <option name="METHOD_NAME" value="createIndex" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java_for_es" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java_es.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.java_es" />
+      <option name="MAIN_CLASS_NAME" value="com.java_es.SearchTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -417,17 +416,17 @@
     <list>
       <item itemvalue="JUnit.SearchTest.test_simple_search" />
       <item itemvalue="JUnit.IndexTest.createIndex" />
-      <item itemvalue="JUnit.IndexTest.CreateIndexBulk" />
       <item itemvalue="JUnit.SearchTest.testSearch1" />
       <item itemvalue="Application.Application" />
+      <item itemvalue="JUnit.SearchTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchTest.testSearch1" />
         <item itemvalue="Application.Application" />
-        <item itemvalue="JUnit.IndexTest.createIndex" />
-        <item itemvalue="JUnit.IndexTest.CreateIndexBulk" />
+        <item itemvalue="JUnit.SearchTest" />
         <item itemvalue="JUnit.SearchTest.test_simple_search" />
+        <item itemvalue="JUnit.SearchTest.testSearch1" />
+        <item itemvalue="JUnit.IndexTest.createIndex" />
       </list>
     </recent_temporary>
   </component>
@@ -445,12 +444,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DeleteTest_test_simple_search - 2018.09.16 at 16h 38m 26s.xml">
-      <configuration name="DeleteTest.test_simple_search" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DeleteTest_testDelete - 2018.09.16 at 16h 40m 40s.xml">
-      <configuration name="DeleteTest.testDelete" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DeleteTest_testDelete - 2018.09.16 at 16h 41m 45s.xml">
       <configuration name="DeleteTest.testDelete" configurationId="JUnit" />
     </history-entry>
@@ -475,6 +468,12 @@
     <history-entry file="SearchTest_testSearch1 - 2018.09.17 at 19h 08m 18s.xml">
       <configuration name="SearchTest.testSearch1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SearchTest_test_simple_search - 2018.10.07 at 13h 54m 34s.xml">
+      <configuration name="SearchTest.test_simple_search" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SearchTest - 2018.10.07 at 13h 54m 51s.xml">
+      <configuration name="SearchTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,35 +485,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
+    <frame x="28" y="23" width="1412" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2678832" />
       <window_info id="Structure" order="1" sideWeight="0.50120485" side_tool="true" weight="0.2532189" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50087565" side_tool="true" weight="0.2532189" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.48152867" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49785408" weight="0.4313253" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32866243" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.48152867" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866243" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" visible="true" weight="0.32866243" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32771084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.15307583" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.31545064" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/java_for_es.iml">
@@ -542,11 +545,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
           <caret line="135" column="15" selection-start-line="135" selection-start-column="15" selection-end-line="135" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3359#3360#0" expanded="true" />
-            <element signature="e#3387#3388#0" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../java_repository/org/elasticsearch/plugin/reindex-client/5.4.0/reindex-client-5.4.0.jar!/org/elasticsearch/index/reindex/BulkIndexByScrollResponseContentListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="21" column="102" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="102" />
         </state>
       </provider>
     </entry>
@@ -558,34 +563,97 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
+      <provider editor-type-id="text-editor">
         <state>
           <caret column="60" selection-start-column="60" selection-end-column="60" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../java_repository/org/elasticsearch/plugin/reindex-client/5.4.0/reindex-client-5.4.0.jar!/org/elasticsearch/index/reindex/BulkIndexByScrollResponseContentListener.class">
+    <entry file="file://$PROJECT_DIR$/../java_repository/org/springframework/boot/spring-boot-dependencies/1.5.6.RELEASE/spring-boot-dependencies-1.5.6.RELEASE.pom">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="21" column="102" selection-start-line="21" selection-start-column="82" selection-end-line="21" selection-end-column="102" />
+        <state relative-caret-position="4531">
+          <caret line="2010" column="12" selection-start-line="2010" selection-start-column="12" selection-end-line="2010" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java_repository/org/springframework/boot/spring-boot-starter-parent/1.5.5.RELEASE/spring-boot-starter-parent-1.5.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="151" column="16" selection-start-line="151" selection-start-column="16" selection-end-line="151" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-end-line="92" />
           <folding>
-            <element signature="e#0#2387#0" expanded="true" />
             <element signature="imports" expanded="true" />
+            <element signature="e#3080#3081#0" expanded="true" />
+            <element signature="e#3110#3111#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/util/EsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="27" selection-start-line="80" selection-start-column="27" selection-end-line="80" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/IndexTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="11" selection-end-line="125" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4236#4237#0" expanded="true" />
+            <element signature="e#4266#4267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="357">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/EsConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -594,62 +662,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="29" column="86" lean-forward="true" selection-start-line="29" selection-start-column="86" selection-end-line="29" selection-end-column="86" />
+        <state relative-caret-position="-138">
+          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1307#1308#0" expanded="true" />
-            <element signature="e#1375#1376#0" expanded="true" />
+            <marker date="1539002786069" expanded="true" signature="717:768" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/java_es/util/EsUtil.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="83" column="20" selection-start-line="83" selection-start-column="20" selection-end-line="83" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/IndexTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="82" column="16" lean-forward="true" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1499#1515#0" expanded="true" />
-            <element signature="e#1572#1573#0" expanded="true" />
-            <element signature="e#1602#1603#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/SearchTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="36" lean-forward="true" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1707#1708#0" expanded="true" />
-            <element signature="e#1737#1738#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/EsClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-498">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/java_es/DeleteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="7" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="469">
+          <caret line="58" column="11" selection-start-line="58" selection-start-column="11" selection-end-line="58" selection-end-column="11" />
         </state>
       </provider>
     </entry>

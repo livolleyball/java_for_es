@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="com.java_es.SearchTest" time="5.526" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="com.java_es.SearchTest" time="5.616" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2018.2.2"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -47,7 +47,7 @@
     <property name="java.class.path" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="10"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.2.2 -s /Users/lihm/Desktop/settings.xml -Dmaven.repo.local=/Users/lihm/Desktop/learn/java_repository install"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2018.2.2 -s /Users/lihm/Desktop/learn/java_setting/settings.xml -Dmaven.repo.local=/Users/lihm/Desktop/learn/java_repository package"/>
     <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home"/>
     <property name="user.language" value="zh"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -66,6 +66,6 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.java_es.SearchTest" name="test_simple_search" time="3.49"/>
-  <testcase classname="com.java_es.SearchTest" name="testSearch1" time="2.036"/>
+  <testcase classname="com.java_es.SearchTest" name="test_simple_search" time="3.586"/>
+  <testcase classname="com.java_es.SearchTest" name="testSearch1" time="2.03"/>
 </testsuite>
